@@ -1,6 +1,6 @@
 **Paying Guest Management System**
 
-**Introduction: **
+**Introduction:**
 The goal of the Paying Guest Management System project is to make renting easier for both hosts and visitors. It offers a single, centralized location for room advertising, reservations, payments, and reviews, guaranteeing effective administration and improved communication amongst all stakeholders.
 
 **Background Study:**

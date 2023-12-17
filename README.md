@@ -8,9 +8,9 @@ A software program called the Paying Guest Management System enables hosts to ce
 
 **User Category:**
 There are **3-types** of Users here. They are:
-  • Host
-  • Guest
-  • Admin
+    • Host
+    • Guest
+    • Admin
 
 **Feature List:**
 In this project the “User Type Guest” has the following features:

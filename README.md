@@ -37,3 +37,9 @@ In this project the **“User Type Admin”** has the following features:
     • Dashboard
     • Billing conformation
   
+
+**Impact of this Project:**
+The Paying Guest Management System is increasingly vital in modern society as it streamlines the rental process, enhances security, and promotes sustainability by reducing paperwork. It benefits people by providing a convenient, transparent, and efficient platform formanaging accommodations, fostering a better rental experience.
+
+**Limitations and Possible Future Improvements:**
+Current limitations include potential technological barriers for some users. Future improvements could involve AI-driven recommendations, multilingual support, and advanced analytics for hosts and guests.

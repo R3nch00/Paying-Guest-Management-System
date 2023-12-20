@@ -13,7 +13,7 @@ There are **3-types** of Users here. They are:
     • Admin
 
 **Feature List:**
-In this project the “User Type Guest” has the following features:
+In this project the **“User Type Guest”** has the following features:
     • Dashboard
     • Profile
     • Review
@@ -22,7 +22,7 @@ In this project the “User Type Guest” has the following features:
     • Update password
     • Logout
     
-In this project the “User Type Host” has the following features:
+In this project the **“User Type Host”** has the following features:
     • Dashboard
     • Profile
     • Make a post
@@ -33,7 +33,7 @@ In this project the “User Type Host” has the following features:
     • Update password
     • Logout
     
-In this project the “User Type Admin” has the following features:
+In this project the **“User Type Admin”** has the following features:
     • Dashboard
     • Billing conformation
   
